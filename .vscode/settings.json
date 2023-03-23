@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "G:\\Anaconda3-2019.03\\envs\\py36\\python.exe",
+　　"python.autoComplete.extraPaths": [
+    　　　　"G:/Anaconda3-2019.03/envs/py36/Lib/site-packages",
+    　　　　"G:/Anaconda3-2019.03/envs/py36/Scripts",
+    ],
+    "python.analysis.extraPaths": [
+        "G:/Anaconda3-2019.03/envs/py36/Lib/site-packages",
+        "G:/Anaconda3-2019.03/envs/py36/Scripts"
+    ],
+}
